@@ -1,5 +1,7 @@
 #include "testApp.h"
 #include <math.h>
+
+
 void PrintCameraInfo( CameraInfo* pCamInfo )
 {
     printf(
