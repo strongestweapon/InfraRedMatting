@@ -83,10 +83,10 @@
     </ClCompile>
     <ClCompile Include="src\RFID\RFID.cpp" />
     <ClCompile Include="src\RFID\RFItem.cpp" />
-    <ClCompile Include="..\..\..\addons\ofxAlphaVideoPlayer\ofxAlphaVideoPlayer.cpp">
+    <ClCompile Include="addons\ofxAlphaVideoPlayer\ofxAlphaVideoPlayer.cpp">
       <Filter>addons\ofxAlphaVideo</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\addons\ofxAlphaVideoPlayer\ofxQtUtils_alpha.cpp">
+    <ClCompile Include="addons\ofxAlphaVideoPlayer\ofxQtUtils_alpha.cpp">
       <Filter>addons\ofxAlphaVideo</Filter>
     </ClCompile>
   </ItemGroup>
@@ -199,10 +199,10 @@
     </ClInclude>
     <ClInclude Include="src\RFID\RFID.h" />
     <ClInclude Include="src\RFID\RFItem.h" />
-    <ClInclude Include="..\..\..\addons\ofxAlphaVideoPlayer\ofxAlphaVideoPlayer.h">
+    <ClInclude Include="addons\ofxAlphaVideoPlayer\ofxAlphaVideoPlayer.h">
       <Filter>addons\ofxAlphaVideo</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\addons\ofxAlphaVideoPlayer\ofxQtUtils_alpha.h">
+    <ClInclude Include="addons\ofxAlphaVideoPlayer\ofxQtUtils_alpha.h">
       <Filter>addons\ofxAlphaVideo</Filter>
     </ClInclude>
   </ItemGroup>
